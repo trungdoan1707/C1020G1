@@ -1,2 +1,0 @@
-Hello lớp C1020G1
-Hôm nay sửa code, update thêm chức năng admin
